@@ -1,4 +1,4 @@
-let width=15;
-let height=20;
+let width=23;
+let height=40;
 let area=width*height;
 document.write("Area=" + area);
